@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#toplevel_page_wu_dhl .wp-menu-image  img{
+    width:30px;
+    height: 34px;
+    padding:0;
+   
+}
+#wu-dhl-manager label{
+    display:inline-block;
+    width:100px;
+}

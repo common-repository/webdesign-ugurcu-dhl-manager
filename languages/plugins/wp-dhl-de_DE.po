@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-31 08:28+0100\n"
+"PO-Revision-Date: 2018-01-31 10:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+#: wu_dhl_index.php:12
+msgid "Mode change"
+msgstr "Modus wechseln"
+
+#: wu_dhl_index:14
+msgid "API Data for Live operation"
+msgstr "API Daten für den Live Betrieb"
+
+#: wu_dhl_index:18
+msgid "Your DHL customer number"
+msgstr "Ihre DHL Kundennummer"
+
+#: wu_dhl_index.php:20
+msgid "API Data save"
+msgstr "API Daten speichern"
+
+#: wu_dhl_index.php:22
+msgid "Sender Label information"
+msgstr "Absender Label information"
+
+#: wu_dhl_index.php:24
+msgid "Company name"
+msgstr "Firmenname"
+
+#: wu_dhl_index:25
+msgid "Last name"
+msgstr "Nachname"
+
+#: wu_dhl_index.php:26
+msgid "First name"
+msgstr "Vorname"
+
+#: wu_dhl_index.php:27
+msgid "Contact"
+msgstr "Kontakt"
+
+#: wu_dhl_index.php:27
+msgid "The Contactperson of your company"
+msgstr "Die Kontaktperson in ihrer Firma"
+
+#: wu_dhl_index:28
+msgid "Street"
+msgstr "Straße"
+
+#: wu_dhl_index.php:29
+msgid "Number"
+msgstr "Haus NR"
+
+#: wu_dhl_index.php:30
+msgid "ZIP"
+msgstr "PLZ"
+
+#: wu_dhl_index.php:31
+msgid "City"
+msgstr "Stadt"
+
+#: wu_dhl_index:33
+msgid "Phone"
+msgstr "Telefon"
+
+#: wu_dhl_index.php:35
+msgid "Label Data save"
+msgstr "Labeldaten speichern"
+
+#: wu_dhl_index.php:38
+msgid "For test purposes you can create here a sample label"
+msgstr "Zu Testzwecken können Sie here a Probelabel erstellen"
+
+#: wu_dhl_index.php:40
+msgid "sample print"
+msgstr "Probedruck"
